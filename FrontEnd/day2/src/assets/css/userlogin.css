@@ -1,0 +1,35 @@
+.user-login-form {
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    text-align: center;
+    margin-left:580px;
+    opacity:0.9;
+  }
+  .user-login-form input {
+    display: block;
+    width: calc(100% - 20px);
+    margin: 10px auto;
+    padding: 10px ;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  .user-login-form button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  .user-login-form button:hover {
+    background-color: #0056b3;
+  }
+  .user
+  {
+    color:black;
+  }
