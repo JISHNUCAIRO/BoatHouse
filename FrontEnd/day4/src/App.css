@@ -1,0 +1,12 @@
+body {
+  background-image: url("./assets/images/seatran-ferry-conveying-passenger-from-donsak-pier-surat.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  /* position:fixed; */
+
+    margin: 0;
+    /* display: flex; */
+    place-items: center;  
+    /* min-width: 900px; */
+    min-height: 100vh;
+}
