@@ -1,0 +1,19 @@
+.home {
+    position: relative;
+    min-height: 100vh; 
+  }
+  
+  .main-content {
+    padding-bottom: 50px; 
+  }
+  
+  .content {
+    margin-bottom: 50px; 
+    position: fixed;
+  }
+  .hh{
+     color: cadetblue;
+  }
+  .hp{
+    color: green;
+  }
