@@ -1,0 +1,52 @@
+.login-page {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+
+    width: 700px; 
+    margin-left:400px;
+    text-align: center;
+    padding: 20px; 
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color:wheat;
+    opacity: 0.8;
+    margin-top: 100px;
+    border-radius: 20px;
+  }
+  .login-buttons {
+    display: flex;
+    gap: 20px;
+  }
+  .admin-button,
+  .user-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .admin-button {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .user-button {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .admin-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .user-button:hover {
+    background-color: #218838;
+  }
+.l{
+  color:black;
+}
