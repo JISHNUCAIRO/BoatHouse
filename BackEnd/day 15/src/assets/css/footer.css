@@ -1,0 +1,114 @@
+.footer {
+    background-color:white;
+    opacity: 0.8;
+    color:black;
+    padding: 10px;
+    /* text-align: center; */
+    display: flex;
+    width: 100%;  
+    margin-top: 180px;
+  }
+ .f1
+ {
+  text-align: center;
+  /* margin-bottom: 20px; */
+  padding-left: 400px;
+  font-size: 20px;
+  color: black;
+  padding-top: 100px;
+
+ }
+  .soci{
+    padding-left: 10px;
+    padding-right: 15px;
+    padding-top: 10px;
+    /* color: inherit; */
+  }
+.lin{
+  color: black;
+  font-size: larger;
+  padding-left: 110px;  
+}
+#x:hover {
+  color:black; /* New color for Twitter when hovered */
+}
+
+#meta:hover {
+  color: #3b5998; /* New color for Meta when hovered */
+}
+
+#reddit :hover {
+  color: #FF4500; /* New color for Reddit when hovered */
+}
+
+#what:hover {
+  color: #128C7E;
+  transition: 0.7s;
+}
+
+#gram :hover{
+  color: #C13584; /* New color for Instagram when hovered */
+}
+
+#link:hover  {
+  color: #2867B2; /* New color for LinkedIn when hovered */
+}
+
+#meta:hover,
+#reddit:hover,
+#gram:hover,
+#what:hover,
+#link:hover,
+#x:hover {
+  transition: 0.4s;
+  /* background-color: #f0f0f0; */
+  padding: 5px;
+  border-radius: 6px;
+  /* font-size: x-large; */
+}
+
+#meta:hover,
+#reddit:hover,
+#gram:hover,
+#what:hover,
+#link:hover,
+#x:hover {
+  background:#fff;
+  box-shadow:1px 2px 10px 5px #97B1BF;
+  color:#3b5998; /* for meta */
+}
+
+#reddit:hover {
+  color:#FF5700; 
+  background-color: white;
+}
+
+#gram:hover {
+  background-color: white;
+  color:#E4405F; /* for gram */
+}
+
+#what:hover {
+  background-color: white;
+  color:#25D366; /* for what */
+}
+
+#link:hover {
+  color:#0077B5; /* for link */
+  background-color: white;
+}
+
+#x:hover {
+  color:white; /* for x */
+  background-color: black;
+}
+
+#meta:hover {
+  color:#3b5998; /* for x */
+  background-color: white;
+}
+.con{
+   color: black;
+  padding-left: 270px;
+  font-size:20px;
+}

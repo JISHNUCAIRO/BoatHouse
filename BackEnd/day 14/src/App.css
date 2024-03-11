@@ -1,0 +1,20 @@
+body {
+  background-image: url("./assets/images/seatran-ferry-conveying-passenger-from-donsak-pier-surat.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+
+  /* position:; */
+
+    /* display: flex; */
+    /* place-items: center;   */
+    /* min-width: 900px; */
+    /* min-height: 100vh; */
+
+    /* margin: 0;
+    position:static; */
+    /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale; */
+}

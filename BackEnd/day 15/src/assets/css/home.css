@@ -1,0 +1,64 @@
+
+  .content {
+    /* margin-bottom: 50px;  */
+    margin-top:100px;
+    text-align: center;
+    padding-left: 200px;  
+    /* width: 90%; */
+    
+    /* background-image: url('../images/beautiful-shot-small-lake-with-wooden-rowboat-focus-amazing-clouds-sky.jpg'); */
+    /* position: fixed; */
+  }
+  .main-content{
+    
+    right: 0;
+    margin-left: 10px;
+    left: 0;
+  }
+  .hh{
+     color:black;
+     padding-top:20px ;
+  }
+  .hp{
+    color:black   ;
+    font-size: xx-large;
+  }
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;/*Allows cards to wrap onto the next line*/
+    justify-content: flex-start; /* Align from left to right */
+    cursor: pointer;
+  }
+  
+  .card-content {
+    width: calc(33.33% - 20px); /* Adjust card width and spacing */
+    margin-right: 20px; /* Adjust spacing between cards */
+    margin-bottom: 90px; /* Adjust spacing between rows */
+    margin-right: 10px;
+    background-color:seagreen;
+  }
+  
+  /* Additional styling for card content */
+  .card-content img {
+    width: 90%;
+    padding-top: 20px;
+    height: auto;
+  }
+  
+  .card-title {
+    font-size: 30px;
+    margin-top: 30px;
+  }
+  
+  .card-text {
+    font-size: 20px;
+    color:black;
+  }
+  
+  /* Media query for responsiveness */
+  @media screen and (max-width: 768px) {
+    .card-content {
+      width: calc(50% - 20px); /* Adjust card width and spacing for smaller screens */
+    }
+  }
+  

@@ -1,0 +1,44 @@
+/* 
+  
+  .user-edit-details-container {
+    max-width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .user-edit-details-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .user-edit-details-container form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .user-edit-details-container label {
+    margin-bottom: 5px;
+  }
+  
+  .user-edit-details-container input {
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .user-edit-details-container button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .user-edit-details-container button:hover {
+    background-color: #0056b3;
+  } */
